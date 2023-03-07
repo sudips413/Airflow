@@ -1,4 +1,4 @@
-/__pycache__
+/dags/__pycache__
 /logs
 /airflow.cfg
 /airflow.db
